@@ -1,0 +1,4 @@
+{
+	"ListenAddr":"0.0.0.0:10086",
+	"Storage":"/var/www/html/image/storage"
+}
